@@ -10,7 +10,7 @@ Link: [View Demo](https://zejsneto.github.io/Parallax-Scrolling-Website/)
 
 ## 👁️‍🗨️ Preview
 <p align="center" >
-  <img width="70%" src="/repository-assets/gif01.gif" />
+  <img width="100%" src="/repository-assets/gif01.gif" />
 </p>
 
 ---
