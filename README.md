@@ -4,7 +4,7 @@
 
 A Parallax-Scrolling-Website, developed with HTML, CSS and JavaScript. <br>
 
-Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)
+Link: [View Demo](https://zejsneto.github.io/Parallax-Scrolling-Website/)
 
 ---
 
