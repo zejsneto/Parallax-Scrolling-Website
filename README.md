@@ -10,16 +10,7 @@ Link: [View Demo](https://zejsneto.github.io/DnD-Forms-Page/)
 
 ## 👁️‍🗨️ Preview
 <p align="center" >
-  <img width="70%" src="/repository-imgs/img01.png" />
-</p>
-<p align="center" >
-  <img width="70%" src="/repository-imgs/img02.png" />
-</p>
-<p align="center" >
-  <img width="70%" src="/repository-imgs/img03.png" />
-</p>
-<p align="center" >
-  <img width="70%" src="/repository-imgs/img04.png" />
+  <img width="70%" src="/repository-assets/gif01.gif" />
 </p>
 
 ---
