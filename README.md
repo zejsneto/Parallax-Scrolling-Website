@@ -23,7 +23,7 @@ Link: [View Demo](https://zejsneto.github.io/Parallax-Scrolling-Website/)
 
 ---
 
-## 📃 Credits to [Digital Innovation One](https://web.dio.me/home)
+## 📃 Credits to Codehal
 
 ![YouTubeChannel](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Channel](https://www.youtube.com/channel/UCARtKuN24xix9o30mGUQvkw)<br>
